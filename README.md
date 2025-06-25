@@ -44,6 +44,8 @@ Image-Clicker.exe [--fix x,y] image1.png image2.png
 - Windows OS
 - 1920x1080 display (or use --fix)
 - Images of the clickable target (cakes, etc.)
+▶ GUIDE:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/106xG6qEZEE" frameborder="0" allowfullscreen></iframe>
 
 ▶ LICENSE:
 
