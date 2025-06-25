@@ -1,5 +1,5 @@
 # DBD Bloodweb Cake Clicker  
-**Version 1.0 by Windforce2007**  
+**Version 1.0 by [Windforce2007](https://www.twitch.tv/windforce2007)**  
 *Based on the original by [2cz5](https://github.com/2cz5)*
 
 
