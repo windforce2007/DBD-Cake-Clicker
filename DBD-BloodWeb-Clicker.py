@@ -1,5 +1,5 @@
 # | Made by 2cz5 | https://github.com/2cz5 | Discord:2cz5 (for questions etc..)
-# Modified By Windforce2007 | DBD Cake Clicker : |
+# Modified By Windforce2007 | DBD Cake Clicker : https://github.com/windforce2007/DBD-Cake-Clicker |  https://github.com/windforce2007
 import cv2
 import numpy as np
 import pyautogui
