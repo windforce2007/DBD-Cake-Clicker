@@ -76,7 +76,7 @@ def search_and_click(images, threshold=0.8, click_delay=0.01, killswitch_key='q'
             if killswitch_activated:
                 break
 # Modified 
-        if not match_found and (time.time() - no_match_start_time >= 5):
+        if not match_found and (time.time() - no_match_start_time >= 3):
             pyautogui.mouseDown(*fixed_click_coords)
             time.sleep(0.1)
             pyautogui.mouseUp(*fixed_click_coords)
